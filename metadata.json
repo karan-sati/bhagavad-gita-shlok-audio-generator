@@ -1,0 +1,6 @@
+{
+  "name": "Bhagavad Gita Audio & Shloka App",
+  "description": "Listen to sacred Bhagavad Gita Sanskrit shlokas with audio recitation, meditative Tanpura drone, word meanings, and Hindi/English translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
